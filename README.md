@@ -37,3 +37,7 @@ I'm a beginner programmer with **2 years of experience** in learning and buildin
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
   </a>
 </p>
+<a href="https://www.instagram.com/andron.ermak/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
