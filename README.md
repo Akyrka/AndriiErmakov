@@ -28,6 +28,7 @@ I'm a beginner programmer with **2 years of experience** in learning and buildin
 
 ✉️ Email: [andreyermackov04@gmail.com](mailto:andreyermackov04@gmail.com)
 
+
 ---
 
 ### 🌐 Socials
@@ -40,4 +41,8 @@ I'm a beginner programmer with **2 years of experience** in learning and buildin
 <a href="https://www.instagram.com/andron.ermak/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<a href="https://t.me/andreuitz" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 
