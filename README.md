@@ -3,7 +3,7 @@
 I'm a beginner programmer with **2 years of experience** in learning and building web applications.
 
 - 💻 Proficient in **Python**, **HTML**, and **CSS**
-- ⚙️ Experienced with **FastAPI** and **Django** frameworks
+- ⚙️ Experienced with **Flask**, **FastAPI** and **Django** frameworks
 - 🚀 Passionate about web development and backend technologies
 - 📚 Always eager to learn and explore new tools and technologies
 
